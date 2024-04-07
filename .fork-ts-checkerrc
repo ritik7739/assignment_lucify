@@ -1,0 +1,7 @@
+{
+  "async": false,
+  "typescript": {
+    "enabled": true,
+    "configFile": "./tsconfig.json"
+  }
+}
